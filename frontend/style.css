@@ -13,3 +13,23 @@ h1{
     font-size: 60px;
     text-align: center;
 }
+
+.BandeiraBrasil{
+    width: 20%;
+    height: auto;
+}
+
+.div{
+    width: 300px;
+}
+
+.BandeiraRussia{
+    width: 20%;
+    height: auto;
+    border: 1px solid #000;
+}
+
+.BandeiraEUA{
+    width: 20%;
+    height: auto;
+}
